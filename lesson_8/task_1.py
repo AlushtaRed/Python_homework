@@ -106,11 +106,5 @@ def main():
         elif answer == 'x':
             flag_exit = True
 
-# if __name__ == '__main__':
-#     main()
-    # print('123')
-    # print(__name__)
-# else:
-#     print('123')
-#     print('отрабатывает else')
-#     print(__name__)
+if __name__ == '__main__':
+    main()
